@@ -1,0 +1,17 @@
+body {
+  margin: 0;
+  padding: 0;
+}
+
+.header {
+  height: 100px;
+  width: 100%;
+  background-color: aquamarine;
+}
+.footer {
+  height: 100px;
+  position: fixed;
+  bottom: 0;
+  width: 100%;
+  background-color: aqua;
+}
